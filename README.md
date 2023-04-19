@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitkhairia" alt="mohitkhairia" /></a> </p>
 
-- 🔭 I’m currently working on **Web dev projects**
+- 🔭 I’m currently working on [Web dev projects](https://github.com/code735/stanzaLiving)
 
 - 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://mohitkhairia-portfolio.netlify.app/](https://mohitkhairia-portfolio.netlify.app/)
 
 - 💬 Ask me about **Programming, DSA, Web Development**
 
 - 📫 How to reach me **mohitkhairia@gmail.com**
+
+- 📄 Know about my experiences [https://mohitkhairia-portfolio.netlify.app/static/media/Mohit_Khairia_Resume.b99603caa5c32f4ba12d.pdf](https://mohitkhairia-portfolio.netlify.app/static/media/Mohit_Khairia_Resume.b99603caa5c32f4ba12d.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitkhairia&show_icons=true&locale=en" alt="mohitkhairia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhairia&" alt="mohitkhairia" /></p>
-
