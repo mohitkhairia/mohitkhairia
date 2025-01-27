@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Web dev projects](https://github.com/code735/stanzaLiving)
 
-- 🌱 My spelisizations are MERN, MEAN, Python, Java Stacks
+- 🌱 My specialization are MERN, MEAN, Python, Java Stacks
 
 - 👨‍💻 All of my projects are available at [https://mohitkhairia-portfolio.netlify.app/](https://mohitkhairia-portfolio.netlify.app/)
 
